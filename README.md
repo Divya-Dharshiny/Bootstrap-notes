@@ -1,4 +1,4 @@
-﻿create your profile in www.guvi.in and update your github repos to get better job opportunities  
+
 
 
 Bootstrap Tutorial Source Files
